@@ -129,4 +129,10 @@ dmypy.json
 .pyre/
 
 /.hg/
+/.hgignore
+/.hgeol
+/.hgtags
 /tmp/
+/dist/
+__pycache__
+/tests/test*.pdf
